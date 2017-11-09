@@ -8,5 +8,6 @@ Background
    :maxdepth: 1
 
    philosophy
+   design-philosophy
    togas-and-yaks
    commands
